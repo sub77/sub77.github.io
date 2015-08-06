@@ -1,0 +1,39 @@
+{
+	"status": "ok",
+	"date": "2016-08-05",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20150404-v32-UNOFFICIAL-falcon.zip",
+						"version": "32",
+						"type": "multirom",
+					},
+					{
+						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-TWRP-v287_20150805.img",
+						"version": "mrom20150805",
+						"type": "recovery",
+					},
+					{
+						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom_uninstaller.zip",
+						"version": "1.0",
+						"type": "uninstaller",
+					},
+					{
+						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom_uninstaller.zip",
+						"version": "2.8.7",
+						"type": "theme",
+					},
+				],
+                        "name": "falcon",
+                        "ubuntu_touch":
+				{
+                                        "req_multirom": "32",
+                                        "req_recovery": "mrom20150805"
+				}
+			}
+		]
+}
