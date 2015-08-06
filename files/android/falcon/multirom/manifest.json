@@ -3,9 +3,9 @@
 	"date": "2016-08-05",
 	"commands": "",
 	"gpg": false,
-	"devices":
+	"devices": falcon",
 		[
-			{"files":
+			{"files": "falcon",
 				[
 					{
 						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20150404-v32-UNOFFICIAL-falcon.zip",
