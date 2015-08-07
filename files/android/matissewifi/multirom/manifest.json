@@ -1,0 +1,34 @@
+{
+	"status": "ok",
+	"date": "2016-08-05",
+	"commands": "",
+	"gpg": false,
+"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "http://sub77.github.io/files/android/matissewifi/multirom/multirom-cm-20150806-v32-UNOFFICIAL-matisse.zip",
+						"version": "32",
+						"type": "multirom",
+					},
+					{
+						"url": "http://sub77.github.io/files/android/matissewifi/multirom/recovery-cm-01.img",
+						"version": "mrom20150805",
+						"type": "recovery",
+					},
+					{
+						"url": "http://sub77.github.io/files/android/matissewifi/multirom/multirom_uninstaller.zip",
+						"version": "1.0",
+						"type": "uninstaller",
+					},
+				],
+                        "name": "matissewifi",
+                        "ubuntu_touch":
+				{
+                                        "req_multirom": "32",
+                                        "req_recovery": "mrom20150805"
+				}
+			}
+		]
+}
