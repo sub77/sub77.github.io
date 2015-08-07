@@ -1,33 +1,66 @@
 {
 	"status": "ok",
-	"date": "2016-08-05",
+	"date": "2015-03-29",
 	"commands": "",
 	"gpg": false,
-"devices":
+	"devices":
 		[
 			{"files":
 				[
 					{
-						"url": "http://sub77.github.io/files/android/matissewifi/multirom/multirom-cm-20150806-v32-UNOFFICIAL-matisse.zip",
-						"version": "32",
+						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/multirom-20150621-v32k-UNOFFICIAL-bacon.zip",
+						"version": "32k",
 						"type": "multirom",
+						"size": 5570451,
+						"md5": "3714d8b19d7167f64e58b3ff8098898e"
 					},
 					{
-						"url": "http://sub77.github.io/files/android/matissewifi/multirom/recovery-cm-01.img",
-						"version": "mrom20150805",
+						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/TWRP_multirom_bacon_20150803-00.img",
+						"version": "mrom20150803-00",
 						"type": "recovery",
+						"size": 14753792,
+						"md5": "22f7288bd25bbf5d82973686be69ae85"
 					},
 					{
-						"url": "http://sub77.github.io/files/android/matissewifi/multirom/multirom_uninstaller.zip",
-						"version": "1.0",
-						"type": "uninstaller",
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/cm11.zip",
+						"version": "4.4.x",
+						"md5": "9193422998925abacd6c9084744ee22c",
+						"type": "kernel",
+						"size": 8865295
 					},
+					{
+						"extra": {"releases":["5.0"]},
+						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/cm12.zip",
+						"version": "5.0.x",
+						"md5": "3d8126ae2f561bb554eea9d7d03b5feb",
+						"type": "kernel",
+						"size": 7639064
+					},
+					{
+						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/multirom_uninstaller.zip",
+						"version": "",
+						"type": "uninstaller",
+						"size": 1623346,
+						"md5": "7e7f8c1cca762ba581a433b681a6b197"
+					}
 				],
-                        "name": "matissewifi",
-                        "ubuntu_touch":
+			"changelogs":
+				[
+					{
+						"url": "http://kingbabasula.altervista.org/multirom/changelog_bacon_multirom.txt",
+						"name": "MultiROM"
+					},
+					{
+						"url": "http://kingbabasula.altervista.org/multirom/changelog_bacon_recovery.txt",
+						"name": "Recovery"
+					}
+				],
+			"name": "a0001",
+			"ubuntu_touch":
 				{
-                                        "req_multirom": "32",
-                                        "req_recovery": "mrom20150805"
+					"req_multirom": "32",
+					"req_recovery": "mrom20150624-00"
 				}
 			}
 		]
