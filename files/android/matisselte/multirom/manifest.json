@@ -1,0 +1,48 @@
+{
+	"status": "ok",
+	"date": "2015-08-15",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "http://sub77.github.io/files/android/matissewifi/multirom/multirom-20150815-v32-UNOFFICIAL-matisse.zip",
+						"version": "32",
+						"type": "multirom",
+						"size": 3931520,
+						"md5": "85fe4f2586081814d5989c38c94256ae"
+					},
+					{
+						"url": "http://sub77.github.io/files/android/matissewifi/multirom/TWRP_multirom_matisse_20150815-01.img",
+						"version": "mrom20150815-01",
+						"type": "recovery",
+						"size": 9410560,
+						"md5": "7e9a38cf18fdabe95e81d74491f28ceb"
+					},
+					{
+						"url": "http://sub77.github.io/files/android/matissewifi/multirom/multirom_uninstaller.zip",
+						"version": "",
+						"type": "uninstaller",
+						"size": 1623269,
+						"md5": "1ae1d9ef6b2c744762ffda11d20f05f3"
+					},
+					{
+						"extra": {"releases":["5.0.2"]},
+						"url": "http://sub77.github.io/files/android/matissewifi/multirom/bootstock502_matissewifi.img",
+						"version": "STOCK 5.0.2 KEXEC - Primary Rom",
+						"md5": "c446c94d129a82f46f32d86a4ddceee9",
+						"type": "kernel",
+						"size": 9230336
+					}
+				],
+                        "name": "matissewifi",
+                        "ubuntu_touch":
+				{
+                                        "req_multirom": "32",
+                                        "req_recovery": "mrom20150815-01"
+				}
+			}
+		]
+}
