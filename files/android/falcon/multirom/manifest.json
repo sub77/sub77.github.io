@@ -47,14 +47,14 @@
 					{
 						"extra": {"releases":["5.1.1"]},
 						"url": "http://sub77.github.io/files/android/falcon/multirom/AttackedSTOCK-V8.zip",
-						"version": "stock - 5.1.1",
+						"version": "AttackedSTOCK-V8",
 						"md5": "3b08616be7a58f8ede9f6f4dcb7fbc56",
 						"type": "kernel",
 						"size": 9424254
 					}
 				],
                         "name": "falcon",
-                        "ubuntu_touch":
+                        "ubuntu_touch": true
 				{
                                         "req_multirom": "28",
                                         "req_recovery": "mrom20140905"
