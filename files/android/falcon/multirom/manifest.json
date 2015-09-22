@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2015-09-22",
+	"date": "2014-09-05",
 	"commands": "",
 	"gpg": false,
 	"devices":
@@ -15,11 +15,26 @@
 						"md5": "ed9d3669223d284d4846da11bc383b73"
 					},
 					{
+						"extra": {"releases":["sailfish"]},
+						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20150404-v32-sailfish-UNOFFICIAL-falcon.zip",
+						"version": "32",
+						"type": "multirom",
+						"size": 3932314,
+						"md5": "ccf0fce5fd51e9aaa56bc9ba05ab0664"
+					},
+					{
 						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_multirom_falcon_20150814-01.img",
 						"version": "mrom20150814-01",
 						"type": "recovery",
 						"size": 10426368,
 						"md5": "d1e61cb9aff5e519770bf2a967a1007a"
+					},
+					{
+						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_multirom_falcon_20150922-02.img",
+						"version": "mrom20150922-02",
+						"type": "recovery",
+						"size": 9648128,
+						"md5": "5c1f1db6634e2422a8d32b8cf3b0de87"
 					},
 					{
 						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom_uninstaller.zip",
@@ -54,10 +69,10 @@
 					}
 				],
                         "name": "falcon",
-                        "ubuntu_touch":
+                        "ubuntu_touch": true
 				{
-                                        "req_multirom": "28",
-                                        "req_recovery": "mrom20140905"
+                                        "req_multirom": "32",
+                                        "req_recovery": "mrom20150922-02"
 				}
 			}
 		]
