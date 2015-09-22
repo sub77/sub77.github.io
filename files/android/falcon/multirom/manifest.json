@@ -23,7 +23,7 @@
 					},
 					{
 						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom_uninstaller.zip",
-						"version": "",
+						"version": "1",
 						"type": "uninstaller",
 						"size": 1622934,
 						"md5": "5eccbcd0dde5dc7406fc8a6c02b3c4a9"
@@ -31,10 +31,18 @@
 					{
 						"extra": {"releases":["5.1.1"]},
 						"url": "http://sub77.github.io/files/android/falcon/multirom/Optimus-Kernel-Falcon-R39.zip",
-						"version": "cm based roms - 5.1.1",
+						"version": "OptimusR39 cm based roms - 5.1.1",
 						"md5": "a0a6d6bde20183aae49332d19a17acdc",
 						"type": "kernel",
 						"size": 4894773
+					},
+					{
+						"extra": {"releases":["5.1.1"]},
+						"url": "http://sub77.github.io/files/android/falcon/multirom/Optimus-Kernel-Falcon-R42.zip",
+						"version": "OptimusR42 cm based roms - 5.1.1",
+						"md5": "22995514a1027fbfbd03dfe7f1b6a30d",
+						"type": "kernel",
+						"size": 5635145
 					},
 					{
 						"extra": {"releases":["5.1.1"]},
@@ -46,7 +54,7 @@
 					}
 				],
                         "name": "falcon",
-                        "ubuntu_touch":
+                        "ubuntu_touch": true,
 				{
                                         "req_multirom": "28",
                                         "req_recovery": "mrom20140905"
