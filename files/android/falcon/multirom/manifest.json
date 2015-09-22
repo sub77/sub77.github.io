@@ -54,7 +54,7 @@
 					}
 				],
                         "name": "falcon",
-                        "ubuntu_touch": true,
+                        "ubuntu_touch":
 				{
                                         "req_multirom": "28",
                                         "req_recovery": "mrom20140905"
