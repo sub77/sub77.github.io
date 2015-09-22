@@ -15,9 +15,8 @@
 						"md5": "ed9d3669223d284d4846da11bc383b73"
 					},
 					{
-						"extra": {"releases":["sailfish"]},
 						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20150404-v32-sailfish-UNOFFICIAL-falcon.zip",
-						"version": "32",
+						"version": "32s",
 						"type": "multirom",
 						"size": 3932314,
 						"md5": "ccf0fce5fd51e9aaa56bc9ba05ab0664"
