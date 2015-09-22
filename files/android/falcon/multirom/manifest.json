@@ -10,7 +10,7 @@
 					{
 						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20150404-v32-UNOFFICIAL-falcon.zip",
 						"version": "32",
-						"type": "multirom",
+						"type": "multirom-backport",
 						"size": 3929098,
 						"md5": "ed9d3669223d284d4846da11bc383b73"
 					},
