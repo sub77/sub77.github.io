@@ -70,7 +70,7 @@
                         "name": "falcon",
                         "ubuntu_touch":
 				{
-                                        "req_multirom": "32",
+                                        "req_multirom": "32s",
                                         "req_recovery": "mrom20150922-02"
 				}
 			}
