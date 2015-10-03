@@ -30,7 +30,7 @@
 					},
 					{
 						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_multirom_falcon_20150922-02.img",
-						"version": "mrom20150922-02",
+						"version": "twrp20150922-02",
 						"type": "recovery",
 						"size": 9648128,
 						"md5": "5c1f1db6634e2422a8d32b8cf3b0de87"
@@ -71,7 +71,7 @@
                         "ubuntu_touch":
 				{
                                         "req_multirom": "32s",
-                                        "req_recovery": "mrom20150922-02"
+                                        "req_recovery": "twrp20150922-02"
 				}
 			}
 		]
