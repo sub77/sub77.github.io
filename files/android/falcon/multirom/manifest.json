@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2015-09-22",
+	"date": "2015-11-06",
 	"commands": "",
 	"gpg": false,
 	"devices":
@@ -8,32 +8,18 @@
 			{"files":
 				[
 					{
-						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20150404-v32-UNOFFICIAL-falcon.zip",
+						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20151106-v32-UNOFFICIAL-falcon.zip",
 						"version": "32",
 						"type": "multirom",
-						"size": 3929098,
-						"md5": "ed9d3669223d284d4846da11bc383b73"
+						"size": 3928970,
+						"md5": "6fc8e1af79390547ca21cabe9912f0cc"
 					},
 					{
-						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20150404-v32-sailfish-UNOFFICIAL-falcon.zip",
-						"version": "32s",
-						"type": "multirom",
-						"size": 3932314,
-						"md5": "ccf0fce5fd51e9aaa56bc9ba05ab0664"
-					},
-					{
-						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_multirom_falcon_20150814-01.img",
+						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_multirom_falcon_20151106-01.img",
 						"version": "mrom20150814-01",
 						"type": "recovery",
-						"size": 10426368,
-						"md5": "d1e61cb9aff5e519770bf2a967a1007a"
-					},
-					{
-						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_multirom_falcon_20150922-02.img",
-						"version": "mrom20150922-02",
-						"type": "recovery",
-						"size": 9648128,
-						"md5": "5c1f1db6634e2422a8d32b8cf3b0de87"
+						"size": 9668608,
+						"md5": "6e89f22bfdab27dfd05bc280d4b0bb3b"
 					},
 					{
 						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom_uninstaller.zip",
@@ -70,8 +56,8 @@
                         "name": "falcon",
                         "ubuntu_touch":
 				{
-                                        "req_multirom": "32s",
-                                        "req_recovery": "mrom20150922-02"
+                                        "req_multirom": "32",
+                                        "req_recovery": "mrom20151106-01"
 				}
 			}
 		]
