@@ -15,11 +15,11 @@
 						"md5": "6fc8e1af79390547ca21cabe9912f0cc"
 					},
 					{
-						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_multirom_falcon_20151106-01.img",
-						"version": "mrom20151106-01",
+						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_multirom_falcon_20151106-02.img",
+						"version": "mrom20151106-02",
 						"type": "recovery",
-						"size": 9668608,
-						"md5": "6e89f22bfdab27dfd05bc280d4b0bb3b"
+						"size": 9666560,
+						"md5": "e7722cc200691bc6bb6922ac1cdd3053"
 					},
 					{
 						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom_uninstaller.zip",
