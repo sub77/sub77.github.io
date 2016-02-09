@@ -8,18 +8,18 @@
 			{"files":
 				[
 					{
-						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20160131-v32g-UNOFFICIAL-falcon.zip",
-						"version": "32g",
+						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20160209-v33-UNOFFICIAL-falcon.zip",
+						"version": "33",
 						"type": "multirom",
-						"size": 3928970,
-						"md5": "0209b1bf179b613fa1969e6f0ca8ba8e"
+						"size": 3915658,
+						"md5": "c3dc58ba3abca55bac5172a5b4d8ab56"
 					},
 					{
-						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRPM287-MOTOG_201601310131.img",
-						"version": "mrom20160131",
+						"url": "http://sub77.github.io/files/android/falcon/mtp://[usb:008,023]/Internal%20storage/Download/MultiROM/twrpm-3.0.0-0_falcon_201602091255.img",
+						"version": "mrom20160209-01",
 						"type": "recovery",
-						"size": 10430464,
-						"md5": "cf1688484a705901cd7a4787e3f6b66c"
+						"size": 9771008,
+						"md5": "c93ba01b18027e6bdb6a8f9ed66f93e7"
 					},
 					{
 						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom_uninstaller.zip",
@@ -72,8 +72,8 @@
                         "name": "falcon",
                         "ubuntu_touch":
 				{
-                                        "req_multirom": "32g",
-                                        "req_recovery": "mrom20160131"
+                                        "req_multirom": "33",
+                                        "req_recovery": "mrom20160209-01"
 				}
 			}
 		]
