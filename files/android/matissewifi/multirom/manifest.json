@@ -8,18 +8,18 @@
 			{"files":
 				[
 					{
-						"url": "http://sub77.github.io/files/android/matissewifi/multirom/multirom-20150815-v32-UNOFFICIAL-matisse.zip",
-						"version": "32",
+						"url": "http://sub77.github.io/files/android/matissewifi/multirom/multirom-20160210-v33-UNOFFICIAL-matisse.zip",
+						"version": "33",
 						"type": "multirom",
-						"size": 3931557,
-						"md5": "b91b6a12d1ef3a6197f8211802ac0b9f"
+						"size": 3919485,
+						"md5": "f742bc8ff537062bc5cda0c9ba83aad5"
 					},
 					{
-						"url": "http://sub77.github.io/files/android/matissewifi/multirom/TWRP_multirom_matisse_20150815-01.img",
-						"version": "mrom20150815-01",
+						"url": "http://sub77.github.io/files/android/matissewifi/multirom/twrpm-3.0.0-0_matisse_160210-0312.img",
+						"version": "mrom20160210-01",
 						"type": "recovery",
-						"size": 9410560,
-						"md5": "7e9a38cf18fdabe95e81d74491f28ceb"
+						"size": 9791504,
+						"md5": "f8c2bfa07e757f016e629414e915bbcb"
 					},
 					{
 						"url": "http://sub77.github.io/files/android/matissewifi/multirom/multirom_uninstaller.zip",
@@ -40,8 +40,8 @@
                         "name": "matissewifi",
                         "ubuntu_touch":
 				{
-                                        "req_multirom": "32",
-                                        "req_recovery": "mrom20150815-01"
+                                        "req_multirom": "33",
+                                        "req_recovery": "mrom20160210-01"
 				}
 			}
 		]
