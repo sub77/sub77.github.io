@@ -8,14 +8,14 @@
 			{"files":
 				[
 					{
-						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20170707-v33-UNOFFICIAL-falcon",
+						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20170707-v33-UNOFFICIAL-falcon.zip",
 						"version": "33",
 						"type": "multirom",
 						"size": 4000581,
 						"md5": "25471cefc700c11fbb3364b88ddfedc2"
 					},
 					{
-						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_3.1.1-0_multirom_falcon_20170707-03",
+						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_3.1.1-0_multirom_falcon_20170707-03.img",
 						"version": "mrom20170707-03",
 						"type": "recovery",
 						"size": 10383360,
