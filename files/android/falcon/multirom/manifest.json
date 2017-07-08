@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2015-11-05",
+	"date": "2017-07-07",
 	"commands": "",
 	"gpg": false,
 	"devices":
@@ -8,72 +8,32 @@
 			{"files":
 				[
 					{
-						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20160209-v33-UNOFFICIAL-falcon.zip",
+						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom-20170707-v33-UNOFFICIAL-falcon",
 						"version": "33",
 						"type": "multirom",
-						"size": 3915658,
-						"md5": "c3dc58ba3abca55bac5172a5b4d8ab56"
+						"size": 4000581,
+						"md5": "25471cefc700c11fbb3364b88ddfedc2"
 					},
 					{
-						"url": "http://sub77.github.io/files/android/falcon/multirom/twrpm-3.0.0-1_falcon_160213-1926.img",
-						"version": "mrom20160213-01",
+						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_3.1.1-0_multirom_falcon_20170707-03",
+						"version": "mrom20170707-03",
 						"type": "recovery",
-						"size": 9766912,
-						"md5": "f358cc8685bd40dfb6fb3497a84fa7cd"
+						"size": 10383360,
+						"md5": "06a3da785cc832a76e3b3943afa3382d"
 					},
 					{
 						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom_uninstaller.zip",
 						"version": "1",
 						"type": "uninstaller",
-						"size": 1622934,
-						"md5": "5eccbcd0dde5dc7406fc8a6c02b3c4a9"
-					},
-					{
-						"extra": {"releases":["5.1.1"]},
-						"url": "http://sub77.github.io/files/android/falcon/multirom/Kaminari-Falcon-v1.07-ArchiDroid.zip",
-						"version": "Stock - Kaminari v1.07-ArchiDroid",
-						"md5": "7d542eddaff4be8ff36cf5fc40045753",
-						"type": "kernel",
-						"size": 9003201
-					},
-					{
-						"extra": {"releases":["5.1.1"]},
-						"url": "http://sub77.github.io/files/android/falcon/multirom/Kaminari-Falcon-v1.07-Linaro5.1.zip",
-						"version": "Stock - Kaminari v1.07-Linaro5.1",
-						"md5": "d7416fafadbc1066f36e82852136bb36",
-						"type": "kernel",
-						"size": 9003273
-					},
-					{
-						"extra": {"releases":["5.1.1"]},
-						"url": "http://sub77.github.io/files/android/falcon/multirom/Optimus-Kernel-Falcon-R39.zip",
-						"version": "OptimusR39 cm based roms - 5.1.1",
-						"md5": "a0a6d6bde20183aae49332d19a17acdc",
-						"type": "kernel",
-						"size": 4894773
-					},
-					{
-						"extra": {"releases":["5.1.1"]},
-						"url": "http://sub77.github.io/files/android/falcon/multirom/Optimus-Kernel-Falcon-R42.zip",
-						"version": "OptimusR42 cm based roms - 5.1.1",
-						"md5": "22995514a1027fbfbd03dfe7f1b6a30d",
-						"type": "kernel",
-						"size": 5635145
-					},
-					{
-						"extra": {"releases":["5.1.1"]},
-						"url": "http://sub77.github.io/files/android/falcon/multirom/AttackedSTOCK-V8.zip",
-						"version": "Stock - AttackedSTOCK-V8",
-						"md5": "3b08616be7a58f8ede9f6f4dcb7fbc56",
-						"type": "kernel",
-						"size": 9424254
+						"size": 1658163,
+						"md5": "15f2926532dfcc3dbf034713d49285db"
 					}
 				],
                         "name": "falcon",
                         "ubuntu_touch":
 				{
                                         "req_multirom": "33",
-                                        "req_recovery": "mrom20160213-01"
+                                        "req_recovery": "mrom20170707-03"
 				}
 			}
 		]
