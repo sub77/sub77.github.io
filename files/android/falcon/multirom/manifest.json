@@ -1,7 +1,6 @@
 {
 	"status": "ok",
-	"date": "2017-07-07",
-	"commands": "",
+	"date": "2016-04-09",
 	"gpg": false,
 	"devices":
 		[
@@ -15,25 +14,36 @@
 						"md5": "25471cefc700c11fbb3364b88ddfedc2"
 					},
 					{
-						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_3.1.1-0_multirom_falcon_20170707-03.img",
-						"version": "mrom20170707-03",
-						"type": "recovery",
-						"size": 10383360,
-						"md5": "06a3da785cc832a76e3b3943afa3382d"
-					},
-					{
 						"url": "http://sub77.github.io/files/android/falcon/multirom/multirom_uninstaller.zip",
 						"version": "1",
 						"type": "uninstaller",
 						"size": 1658163,
 						"md5": "15f2926532dfcc3dbf034713d49285db"
+					},
+					{
+						"url": "http://sub77.github.io/files/android/falcon/multirom/TWRP_3.1.1-0_multirom_falcon_20170707-03.img",
+						"version": "mrom20170707-03",
+						"type": "recovery",
+						"size": 10383360,
+						"md5": "15f2926532dfcc3dbf034713d49285db"
 					}
 				],
-                        "name": "falcon",
-                        "ubuntu_touch":
+			"changelogs":
+				[
+					{
+						"url": "https://www.dropbox.com/s/vhu4dlpadnt1910/changelog_multirom.txt.txt?dl=1",
+						"name": "MultiROM"
+					},
+					{
+						"url": "https://www.dropbox.com/s/xuxahjxilwerg5w/changelog_recovery.txt.txt?dl=1",
+						"name": "Recovery"
+					}
+				],
+			"name": "falcon",
+			"ubuntu_touch":
 				{
-                                        "req_multirom": "33",
-                                        "req_recovery": "mrom20170707-03"
+					"req_multirom": "",
+					"req_recovery": ""
 				}
 			}
 		]
